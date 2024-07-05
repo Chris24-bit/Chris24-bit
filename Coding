@@ -1,4 +1,4 @@
-# this is code for a digital clock
+# this is a python code for a digital clock
 # importing whole module
 from tkinter import *
 from tkinter.ttk import *
